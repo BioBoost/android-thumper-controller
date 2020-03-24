@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Thumper Control</string>
+    <string name="title_1">Control</string>
+    <string name="title_2">LEDs</string>
+    <string name="title_3">Settings</string>
+
+    <string name="control">Control</string>
+    <string name="color">Color</string>
+    <string name="settings">Settings</string>
+    <string name="strobe">Strobe</string>
+
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
